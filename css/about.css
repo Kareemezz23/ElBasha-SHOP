@@ -1,0 +1,30 @@
+
+header .about-img .img img {
+    width: 100%;
+    padding-left: 0%;
+    position: static;
+}
+.container .about {
+    color: gray;
+    text-align: justify;
+    
+}
+footer {
+
+    height: 100px;
+    background-color: #524d51;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-transform: capitalize;
+}
+footer .copy-right {
+    color: #fcf9f9;
+}
+footer .talk a {
+    color: #ffffff;
+    transition: all 0.5s ease;
+}
+footer .talk a:hover {
+    color: #e2d4d4;
+}
